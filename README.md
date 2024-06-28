@@ -36,7 +36,6 @@ Each file can be used independently to understand and implement the specific OOP
 Contributing
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 This README provides a clear overview of the repository's contents and explains the purpose and usage of each file. You can customize it further based on your specific needs and any additional information you might want to include.
